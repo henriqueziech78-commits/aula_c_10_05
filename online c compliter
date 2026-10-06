@@ -1,0 +1,16 @@
+// Online C compiler (editor)
+// Write and run C online using this editor.
+
+#include <stdio.h>
+
+int main() {
+
+//criar programas que some dois numeros
+
+    int x = 15;
+    int y = 25;
+    int soma = x + y;
+
+    printf("x :%d + y:%d soma %d, x,y, soma");
+    return 0;
+}
